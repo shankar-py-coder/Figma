@@ -113,7 +113,8 @@ Event page:
 ```
 # OUTPUT:
 
-![alt text](<../Pictures/Screenshots/Screenshot 2025-10-04 221548.png>)
+![alt text](figma.png)
+
 
 
 # RESULT:
